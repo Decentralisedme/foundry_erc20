@@ -9,7 +9,7 @@ https://eips.ethereum.org/EIPS/eip-20
 ### RicToken.sol:
 The contract inherits the code from ERC-20 OpenZeppelin Solidity Contract Librairy under token:
 - **OpenZeppelin**: https://www.openzeppelin.com/contracts
-- **OpenZepeling Github**: https://github.com/OpenZeppelin/openzeppelin-contracts/
+- **OpenZeppelin Github**: https://github.com/OpenZeppelin/openzeppelin-contracts/
 Steps to use it:
 In terminal install the package:
 ```shell
